@@ -262,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Sushant Nichat** - *Initial work* - [GitHub](https://github.com/codex826)
 
 ## 🙏 Acknowledgments
 
@@ -273,9 +273,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Project Link**: [GitHub Repository](https://github.com/yourusername/nifty50-prediction)
+- **Email**: sushantnichat@gmail.com
+- **LinkedIn**: [Profile](www.linkedin.com/in/sushant-nichat-62b5b8292)
+- **Project Link**: [GitHub Repository](https://github.com/codex826/nifty50-prediction)
 
 ## 🔮 Future Enhancements
 
@@ -304,5 +304,6 @@ This application is for educational and research purposes only. Stock market pre
 ---
 
 **Made with ❤️ using Python, TensorFlow, and Streamlit**
+
 
 **⭐ Star this repository if you found it helpful!**
