@@ -282,8 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Email**: sushantnichat@gmail.com
-- **LinkedIn**: [Profile](www.linkedin.com/in/sushant-nichat-62b5b8292)
-- **Project Link**: [GitHub Repository](https://github.com/codex826/nifty50-prediction)
 
 ## 🔮 Future Enhancements
 
@@ -315,6 +313,7 @@ This application is for educational and research purposes only. Stock market pre
 
 
 **⭐ Star this repository if you found it helpful!**
+
 
 
 
