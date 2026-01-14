@@ -257,6 +257,8 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ## Images
+![image alt](https://github.com/codex826/NIFTY50-Stock-Market-Prediction/blob/f75c4a0fe08feb0dbe64c0a340f2b0e5980e69e7/Screenshot%202026-01-06%20124420.png)
+
 ![image alt](https://github.com/codex826/NIFTY50-Stock-Market-Prediction/blob/7c0f5851d251379e992fcbccdec89f8fe28641a2/Screenshot%202026-01-06%20124339.png)
 
 ![image alt](https://github.com/codex826/NIFTY50-Stock-Market-Prediction/blob/8702f28c5e6214d4072a594e3cee105e0d7d7b0a/Screenshot%202026-01-06%20124402.png)
@@ -313,5 +315,6 @@ This application is for educational and research purposes only. Stock market pre
 
 
 **⭐ Star this repository if you found it helpful!**
+
 
 
