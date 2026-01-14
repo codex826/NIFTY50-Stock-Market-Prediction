@@ -256,6 +256,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Images
+![image alt](https://github.com/codex826/NIFTY50-Stock-Market-Prediction/blob/7c0f5851d251379e992fcbccdec89f8fe28641a2/Screenshot%202026-01-06%20124339.png)
+
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -307,3 +311,4 @@ This application is for educational and research purposes only. Stock market pre
 
 
 **⭐ Star this repository if you found it helpful!**
+
